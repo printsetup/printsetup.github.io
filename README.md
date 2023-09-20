@@ -9,7 +9,7 @@
 ## HP Printer Types
 
 * Inkjet Printers
-* Laser Printers
+* [laser Printers](https://123hpcom-laserjet.github.io/)
 * Multifunction Printers (MFPs)
 * Large Format Printers
 
