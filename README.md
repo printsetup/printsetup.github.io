@@ -1,38 +1,70 @@
-# 123.hp.com/setup
+**[HP printer setup]()** is a well-known American multinational information technology company that manufactures a wide range of products, including computers, laptops, printers, and other hardware and software solutions. HP printers are some of the most popular and widely used printers in the world. Install it from **[123.hp.com/setup]()** on the device you want to print from, and then use it to set up the printer connection.
+
+
+
+
+## HP Printer Types
+
+* Inkjet Printers
+* Laser Printers
+* Multifunction Printers (MFPs)
+* Large Format Printers
+
+
+
+## Features OF HP Printers
+
+
+* Variable printing speeds.
+* Adjustable print resolutions.
+* Wireless and Bluetooth connectivity.
+* Mobile printing with apps.
+* Touchscreen displays for easy navigation.
+* Auto Document Feeders (ADFs) for scanning and copying.
+* Security features like secure boot.
+* Energy-efficient and ENERGY STAR certification.
+* Print apps and cloud printing solutions.
+* Automatic ink/toner replenishment programs.
+* Voice assistant integration.
+* Remote management for networked printers.
+
+
 
 [![123hp.com/setup](get-started-today.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-HP printers offer first-class facilities to its users worldwide. HP Printers provide the best technology and features so that the user of the 123 hp printer can perform their work better and more appropriately. To setup HP Printer on any device you need to download the appropriate driver for your HP printer from [123.hp.com/setup](https://printsetup.github.io/)  and get installation and setup procedure.
 
-##  How to Download and Install HP Printer Driver Using Online procedure ?
+## System Requirements in Windows setup 
 
-*   First, turn on the computer.
-*   Find HP printer drivers and software from [123.hp.com/setup](https://printsetup.github.io/) driver page.
-*   Download the drivers compatible with your computer.
-*   Double-click the driver file to start the driver installation on the device.
-*   Then, follow the on-screen instructions to proceed further.
-*   Connect HP printer and computer with preferred connection mode. You can choose a wired or wireless connection.
-*   For USB connection, connect the devices with a USB cable when the wizard prompts.
-*   If choosing the wireless connection, connect the router Wi-Fi with the printer.
-*   Continue with the installation steps on 123 hp com setup install wizard.
-*   Finally, complete HP printer driver installation as in hp.123.com manual.
+* Windows 10 – 32-bit or 64-bit processor
+* Windows 8.1 – 32-bit or 64-bit processor
+* Windows 7 – 32-bit or 64-bit processor
+* Windows Vista – 32-bit processor
+* Windows XP SP3 or higher – 32-bit processor
+* Windows 8 – 32-bit or 64-bit processor
 
 
-##  System Requirements in Windows to setup 123 hp printer setup
+## Setup HP Printer : 123.hp.com
 
-*  Windows 10 – 32-bit or 64-bit processor
-*   Windows 8.1 – 32-bit or 64-bit processor
-*   Windows 7 – 32-bit or 64-bit processor
-*   Windows Vista – 32-bit processor
-*   Windows XP SP3 or higher – 32-bit processor
-*   Windows 8 – 32-bit or 64-bit processor
+1. Place the HP printer on a smooth surface.
+2. Connect the printer to the power outlet and turn it on.
+3. Set the preferred language and region.
+4. Install genuine ink.
+5. Load paper into the paper tray.
+6. Print an alignment page.
+7. Open a web browser and go to **[123.hp.com]()**.
+8. Download the printer driver to complete the setup.
 
 
-##  HP Printer Scanning Using Webscan Setup
+## Download and Install HP Printer Driver
 
-1. Open the web server in [123.hp.com/setup](https://printsetup.github.io/)  for hp printer scanning.
-2. Tap the Setting tab.
-3. In the Security section, Tap Administrator Settings.
-4. Select Webscan from Embedded web scan to enable Webscan.
-5. Click Apply and you are done!
-
+1. Identify your printer model.
+2. Visit the official **[hp123.com/setup]()** website.
+3. Enter your printer model number.
+4. Select your operating system.
+5. Download the driver for your OS.
+6. Run the downloaded driver installer.
+7. Follow on-screen instructions.
+8. Connect the printer if prompted.
+9. Complete the installation.
+10. Restart your computer if required.
+11. Check for driver updates periodically.
