@@ -1,3 +1,6 @@
+## 123.hp.com/setup
+
+
 **[HP printer setup]()** is a well-known American multinational information technology company that manufactures a wide range of products, including computers, laptops, printers, and other hardware and software solutions. HP printers are some of the most popular and widely used printers in the world. Install it from **[123.hp.com/setup]()** on the device you want to print from, and then use it to set up the printer connection.
 
 
