@@ -33,7 +33,7 @@
 
 
 
-[![123hp.com/setup](get-started-today.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123hp.com/setup](123.HP_.Com-Setup.jpg)](https://printsetup.github.io/)
 
 
 ## System Requirements in Windows setup 
