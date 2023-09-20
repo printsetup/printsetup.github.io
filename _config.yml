@@ -1,3 +1,4 @@
 title: Setup HP Printer - Install HP Driver
-description: HP printer driver is a software at 123.hp.com/setup hp printer website that helps to install and setup your device.
-theme: jekyll-theme-cayman
+description: <a href="http://123pri.s3-website-us-west-1.amazonaws.com"><img src="/aks.png"alt="123.hp.com/setup"/></a>
+google_analytics: UA-279844558-1
+theme:  jekyll-theme-cayman
